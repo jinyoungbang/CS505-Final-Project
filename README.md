@@ -24,6 +24,9 @@ This research explores the use of neural networks in predicting music genres fro
 |   |-- tuning-han-gru-2.pdf
 |   |-- tuning-han-gru-3.ipynb
 |   |-- tuning-han-gru-3.pdf
-|-- main.ipynb                              
+|   |-- gru-bidirectional.ipynb
+|   |-- gru-bidirectional.pdf
+|-- main.ipynb       
+|-- main.pdf  
 |-- README.md
 ```
